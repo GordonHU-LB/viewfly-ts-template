@@ -22,4 +22,4 @@ function App() {
   }
 }
 
-createApp(document.getElementById('app')!, () => <App/>)
+createApp(document.getElementById('app')!, <App/>)
